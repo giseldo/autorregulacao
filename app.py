@@ -36,7 +36,9 @@ def main(user_id, user_email):
 if __name__ == '__main__':
     client_id = "80547735486-qlqurma8i51tkdr8aqp5lncb25in1snd.apps.googleusercontent.com"
     client_secret = "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"
-    redirect_uri = "http://localhost:8501/"
+    redirect_uri = "https://autorregulacao.streamlit.app/"
+    
+    #redirect_uri = "http://localhost:8501/"
     #client_id = os.environ['GOOGLE_CLIENT_ID']
     #client_secret = os.environ['GOOGLE_CLIENT_SECRET']
     #redirect_uri = os.environ['REDIRECT_URI']
