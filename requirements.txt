@@ -1,3 +1,3 @@
-httpx-oauth==0.3.5
+httpx-oauth
 streamlit
 altair==4.0
