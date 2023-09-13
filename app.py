@@ -34,9 +34,11 @@ def main(user_id, user_email):
 
 
 if __name__ == '__main__':
-    client_id = "80547735486-qlqurma8i51tkdr8aqp5lncb25in1snd.apps.googleusercontent.com"
-    client_secret = "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"
-    redirect_uri = "https://autorregulacao.streamlit.app/"
+    #client_id = "80547735486-qlqurma8i51tkdr8aqp5lncb25in1snd.apps.googleusercontent.com"
+    client_id = "80547735486-t57afr5fb28g5o3075fh2rib6n93p08q.apps.googleusercontent.com"
+    #client_secret = "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"
+    client_secret = "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"
+    redirect_uri = "https://autorregulacao.streamlit.app"
     
     #redirect_uri = "http://localhost:8501/"
     #client_id = os.environ['GOOGLE_CLIENT_ID']
